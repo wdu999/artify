@@ -1,5 +1,5 @@
 # artify
 
-scale and center an art picture as wallpaper
+Convert an art image to a computer wallpaper
 
 ![](Snip20220520_8.jpg)
